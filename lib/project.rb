@@ -13,7 +13,5 @@ class Project
       backer.back_project(self)
     end
   end
-end
   
-
 end
